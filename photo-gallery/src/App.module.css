@@ -1,0 +1,12 @@
+.all{
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myDiv {
+  background-color: antiquewhite;
+  width: 600px;
+  height: 150px;
+}
